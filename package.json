@@ -42,7 +42,7 @@
     "jose": "^6.0.12",
     "livekit-client": "^2.22.2",
     "livekit-server-sdk": "^2.18.0",
-    "lucide-react": "^0.555.0",
+    "lucide-react": "^0.577.0",
     "media-chrome": "^4.17.2",
     "mime": "^4.0.7",
     "motion": "^12.16.0",
